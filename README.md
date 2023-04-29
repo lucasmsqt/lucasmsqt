@@ -1,5 +1,5 @@
 
-### Bom te ver por aqui, explora ae amigão,me chamo <br> Lucas mas podeme chamar de Mesquita também. 👻
+### Bom te ver por aqui, explora ae amigão,me chamo <br> Lucas mas pode me chamar de Mesquita também. 👻
 
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCYSshD3ZYL8oBv7IzVzEDrQ)
