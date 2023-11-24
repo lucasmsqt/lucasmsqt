@@ -1,5 +1,6 @@
-###Olá, eu sou Lucas de Mesquita Silva! 👋
+### Olá, eu sou Lucas de Mesquita Silva! 👋
 Desenvolvedor Full Stack e Analista de Dados 
+
 🔭 Atualmente Trabalhando: Estou aplicando minhas habilidades como Desenvolvedor Full Stack e Analista de Dados na Topocart,
 
 🌱 Habilidades e Tecnologias:
