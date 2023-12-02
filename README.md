@@ -5,10 +5,11 @@
 
 🌱 <b>Habilidades e Tecnologias</b>:
 
-<b>Banco de Dados e Geolocalização</b>: Experiência avançada com Postgresql e PostGIS, especializando-me em armazenamento, manipulação e análise de dados geoespaciais.
-<b>Backend Development</b>: NodeJS, criando APIs robustas e eficientes.
-<b>Frontend Development</b>: Experiente em frameworks modernos como React e Angular, além do uso inovador do Astro para construir interfaces de usuário dinâmicas e responsivas.
-<b>Linguagens de Programação</b>: Typescript, Python e Javascript, utilizando as melhores práticas e padrões de codificação.
+- <b>Banco de Dados e Geolocalização</b>: Experiência avançada com Postgresql e PostGIS, especializando-me em armazenamento, manipulação e análise de dados geoespaciais.
+- <b>Backend Development</b>: NodeJS, criando APIs robustas e eficientes.
+- <b>Frontend Development</b>: Experiente em frameworks modernos como React e Angular, além do uso inovador do Astro para construir interfaces de usuário dinâmicas e responsivas.
+- <b>Linguagens de Programação</b>: Typescript, Python e Javascript, utilizando as melhores práticas e padrões de codificação.
+
 💬 <b>Sobre Mim</b>: Sou apaixonado por tecnologia e sempre estou em busca de novos desafios e oportunidades de aprendizado. Acredito firmemente no poder da tecnologia para transformar e melhorar o mundo ao nosso redor.
 
 📫 Entre em Contato: [lucacsk3@gmail.com]
