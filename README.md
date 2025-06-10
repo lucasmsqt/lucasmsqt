@@ -24,7 +24,7 @@ Apaixonado por tecnologia, estou sempre em busca de novos desafios e oportunidad
 📫 **Entre em Contato**  
 - 📧 [lucacsk3@gmail.com](mailto:lucacsk3@gmail.com)  
 - 🔗 [GitHub](https://github.com/lucasmsqt)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lucasmesquitasilva) *(se aplicável)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-msqta/)
 
 📄 **Projetos**  
 No meu GitHub você encontra diversos projetos que ilustram minha trajetória e evolução profissional, desde APIs robustas até dashboards interativos. Sinta-se à vontade para explorar!
